@@ -41,28 +41,29 @@ The built-in screen under BigSur cannot be driven with the full 4K60Hz frame rat
 The touchpad may occasionally fail (caused by the keyboard driver to prevent accidental touch, it can be restored by pressing Win+Prtscr twice)
 The problem of Bluetooth loss is not visible in Windows after it is lost. It can be solved by shutting down and unplugging the power and then letting it stand for a few seconds and then turning it on again (hardware problem, normal power on and off will not occur)
 
-reference
-https://github.com/hla63/Msi-modern-15-Hackintosh
-https://github.com/KerKerOgh/MSI-Prestige-15-Hackintosh
-https://github.com/daliansky/XiaoXinPro-13-hackintosh
-https://github.com/daliansky/OC-little
-https://dortania.github.io/OpenCore-Install-Guide/
-drive
-https://github.com/acidanthera/OpenCorePkg
-https://github.com/acidanthera/Lilu
-https://github.com/acidanthera/VirtualSMC
-https://github.com/acidanthera/AppleALC
-https://github.com/acidanthera/WhateverGreen
-https://github.com/acidanthera/AirportBrcmFixup
-https://github.com/acidanthera/BrcmPatchRAM
-https://github.com/acidanthera/VoodooPS2
-https://github.com/VoodooI2C/VoodooI2C
-https://github.com/acidanthera/HibernationFixup
-https://github.com/OpenIntelWireless/itlwm
-https://github.com/OpenIntelWireless/IntelBluetoothFirmware
-https://github.com/1hbb/OpenIntelWireless-Factory
-https://github.com/al3xtjames/NoTouchID
-https://github.com/acidanthera/CPUFriend
-https://github.com/acidanthera/NVMeFix
-https://github.com/hackintosh-stuff/ComboJack
-https://github.com/fewtarius/jackfix
+## reference
+- https://github.com/hla63/Msi-modern-15-Hackintosh
+- https://github.com/KerKerOgh/MSI-Prestige-15-Hackintosh
+- https://github.com/daliansky/XiaoXinPro-13-hackintosh
+- https://github.com/daliansky/OC-little
+- https://dortania.github.io/OpenCore-Install-Guide/
+
+## drive
+- https://github.com/acidanthera/OpenCorePkg
+- https://github.com/acidanthera/Lilu
+- https://github.com/acidanthera/VirtualSMC
+- https://github.com/acidanthera/AppleALC
+- https://github.com/acidanthera/WhateverGreen
+- https://github.com/acidanthera/AirportBrcmFixup
+- https://github.com/acidanthera/BrcmPatchRAM
+- https://github.com/acidanthera/VoodooPS2
+- https://github.com/VoodooI2C/VoodooI2C
+- https://github.com/acidanthera/HibernationFixup
+- https://github.com/OpenIntelWireless/itlwm
+- https://github.com/OpenIntelWireless/IntelBluetoothFirmware
+- https://github.com/1hbb/OpenIntelWireless-Factory
+- https://github.com/al3xtjames/NoTouchID
+- https://github.com/acidanthera/CPUFriend
+- https://github.com/acidanthera/NVMeFix
+- https://github.com/hackintosh-stuff/ComboJack
+- https://github.com/fewtarius/jackfix
