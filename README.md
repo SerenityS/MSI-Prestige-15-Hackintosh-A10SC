@@ -8,7 +8,7 @@ This project uses OpenCore to boot the EFI instance of MSI Prestige 15 16G 512GB
 | CPU                | Intel i7-10710U                       |                           |
 | IGPU               | Intel Graphics UHD 620                |                           |
 | DGPU               | Nvidia GTX1650 Max-Q                  | **cannot be driven, SSDT is disabled**  |
-| Display            | Sharp SHP14A1 15.6' 3840x2160(4K)     |                           |
+| Display            | Sharp SHP14A1 15.6'     |                           |
 | RAM                | Samsung DDR4 2666MHz 16GB x2          |                           |
 | SSD1               | Western Digital SN730 512GB           |                           |
 | SSD2               | Sabrent 2280 Rocket Q 2TB             | add-on                    |
