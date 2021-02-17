@@ -8,10 +8,10 @@ This project uses OpenCore to boot the EFI instance of MSI Prestige 15 16G 512GB
 | CPU                | Intel i7-10710U                       |                           |
 | IGPU               | Intel Graphics UHD 620                |                           |
 | DGPU               | Nvidia GTX1650 Max-Q                  | **cannot be driven, SSDT is disabled**  |
-| Display            | Sharp SHP14A1 15.6'     |                           |
+| Display            | Innolux N156HCE-EN1 15.6'     | FHD                          |
 | RAM                | Samsung DDR4 2666MHz 16GB x2          |                           |
-| SSD1               | Western Digital SN730 512GB           |                           |
-| SSD2               | Sabrent 2280 Rocket Q 2TB             | add-on                    |
+| SSD1               | Toshiba KBG30ZMV 256GB NVME          | Mac                          |
+| SSD2               | Samsung SSD 970 512GB NVME            | Windows                    |
 | Audio              | Reltek ALC298                         |                           |
 | Wireless           | Intel AX201 WIFI 6.                   |                           |
 | Bluetooth          | Intel AX201 BT5.1                     |                           |
@@ -36,7 +36,6 @@ The above two repairs require the VertStub.kext driver, Clover and OC have been 
 Thunderbolt 3, Type-C port and video output is normal (HDMI and TB3 monitor), no other TB3 device on hand, unable to test
 
 ## Known issues
-The bluetooth doesn't work.
 The touchpad may occasionally fail (caused by the keyboard driver to prevent accidental touch, it can be restored by pressing Win+Prtscr twice)
 
 The problem of Bluetooth loss is not visible in Windows after it is lost. It can be solved by shutting down and unplugging the power and then letting it stand for a few seconds and then turning it on again (hardware problem, normal power on and off will not occur)
